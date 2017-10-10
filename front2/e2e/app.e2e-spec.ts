@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angularcurso2 App', () => {
+describe('museu App', () => {
   let page: AppPage;
 
   beforeEach(() => {
